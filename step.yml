@@ -70,25 +70,21 @@ inputs:
       summary: "Your CLI/API token for Lokalise"
       is_expand: true
       is_required: true
-      value_options: []
   - lokalise_project_id:
     opts:
       title: "Lokalise Project ID"
       summary: "Your project ID for Lokalise"
       is_expand: true
       is_required: true
-      value_options: []
   - file_path:
     opts:
       title: "Path to destination"
       summary: "The path to the destination folder"
       is_expand: true
       is_required: true
-      value_options: []
   - format:
     opts:
       title: "File format"
       summary: "The format of the file you want to download"
       is_expand: true
       is_required: true
-      value_options: []
