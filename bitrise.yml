@@ -39,8 +39,10 @@ workflows:
           but the step would use the default value specified in the `step.yml`
           file if you would not specify another value.
         run_if: true
-        inputs:
-        - example_step_input: Example Step Input's value
+        - lokalise_token:
+        - lokalise_project_id:
+        - file_path: 
+        - format:
     - script:
         inputs:
         - content: |
