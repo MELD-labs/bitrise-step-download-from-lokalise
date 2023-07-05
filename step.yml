@@ -10,9 +10,9 @@
 title: |-
   Download from Lokalise
 summary: |
-  Download files from lokalise
+  Download files from Lokalise
 description: |
-  Use this step to download files from lokalise to your project
+  Use this step to download files from Lokalise to your project
 website: https://github.com/onin-engineering/bitrise-step-download-from-lokalise
 source_code_url: https://github.com/onin-engineering/bitrise-step-download-from-lokalise
 support_url: https://github.com/onin-engineering/bitrise-step-download-from-lokalise/issues

@@ -1,8 +1,6 @@
 #!/bin/bash
 set -ex
 
-echo "This is the value specified for the input 'example_step_input': ${example_step_input}"
-
 lokalise2 \
     --token ${lokalise_token} \
     --project-id ${lokalise_project_id} \
