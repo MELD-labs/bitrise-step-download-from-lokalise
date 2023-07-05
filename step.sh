@@ -6,7 +6,8 @@ lokalise2 \
     --project-id ${lokalise_project_id} \
     file download \
     --format ${format} \
-    --unzip-to ${file_path}
+    --unzip-to ${file_path} \
+    --include-tags ${tags}
 
 #
 # --- Export Environment Variables for other Steps:
