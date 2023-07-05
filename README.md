@@ -1,6 +1,6 @@
 # Download from Lokalise
 
-Use this step to download files from lokalise to your project
+Use this step to download files from Lokalise to your project.
 
 
 ## How to use this Step
