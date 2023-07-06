@@ -13,9 +13,9 @@ summary: |
   Download files from Lokalise
 description: |
   Use this step to download files from Lokalise to your project
-website: https://github.com/onin-engineering/bitrise-step-download-from-lokalise
-source_code_url: https://github.com/onin-engineering/bitrise-step-download-from-lokalise
-support_url: https://github.com/onin-engineering/bitrise-step-download-from-lokalise/issues
+website: https://github.com/MELD-labs/bitrise-step-download-from-lokalise
+source_code_url: https://github.com/MELD-labs/bitrise-step-download-from-lokalise
+support_url: https://github.com/MELD-labs/bitrise-step-download-from-lokalise/issues
 host_os_tags:
   - osx-10.10
   - ubuntu-16.04

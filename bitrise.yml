@@ -8,7 +8,7 @@ app:
   # If you want to share this step into a StepLib
   - BITRISE_STEP_ID: download-from-lokalise
   - BITRISE_STEP_VERSION: "0.0.1"
-  - BITRISE_STEP_GIT_CLONE_URL: https://github.com/onin-engineering/bitrise-step-download-from-lokalise.git
+  - BITRISE_STEP_GIT_CLONE_URL: https://github.com/MELD-labs/bitrise-step-download-from-lokalise.git
   - MY_STEPLIB_REPO_FORK_GIT_URL: $MY_STEPLIB_REPO_FORK_GIT_URL
 
 workflows:
@@ -41,7 +41,7 @@ workflows:
         run_if: true
         - lokalise_token:
         - lokalise_project_id:
-        - file_path: 
+        - file_path:
         - format:
     - script:
         inputs:
