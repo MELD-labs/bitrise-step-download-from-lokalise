@@ -7,7 +7,8 @@ lokalise2 \
     file download \
     --format ${format} \
     --unzip-to ${file_path} \
-    --include-tags ${tags}
+    --include-tags ${tags} \
+    --add-newline-eof
 
 #
 # --- Export Environment Variables for other Steps:
